@@ -5,3 +5,7 @@
 h2{
     background-color: aqua;
 }
+
+nav {
+    display: flex;
+}
